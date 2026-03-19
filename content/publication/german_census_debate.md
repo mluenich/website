@@ -24,7 +24,9 @@ abstract: "The last two German censuses were accompanied by a media debate about
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Census
+- Public Discourse
+- Content Analysis
 featured: false
 
 links:

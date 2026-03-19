@@ -25,7 +25,9 @@ abstract: "The rising adoption of learning analytics and academic performance pr
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Explainable AI
+- Higher Education
+- AI Fairness
 featured: false
 
 links:

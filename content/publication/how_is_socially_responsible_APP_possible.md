@@ -26,7 +26,9 @@ abstract: "The availability of big data at universities enables the use of artif
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- AI Fairness
+- Higher Education
+- Academic Performance Prediction
 featured: false
 
 links:

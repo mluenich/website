@@ -30,7 +30,8 @@ abstract: "In recent years, sport mega events have been frequently awarded to au
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Sports Communication
+- Public Service Broadcasting
 featured: false
 
 links:

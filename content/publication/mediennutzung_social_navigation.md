@@ -26,7 +26,9 @@ abstract: "Durch die erweiterten Möglichkeiten des Social Web, sich an der Medi
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Social Navigation
+- Media Use
+- Selection Processes
 featured: false
 
 links:

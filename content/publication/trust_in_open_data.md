@@ -25,7 +25,10 @@ abstract: "Open data provide great potential for society, for example, in the fi
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Trust
+- Open Data
+- Transparency
+- Experiment
 featured: false
 
 links:

@@ -26,7 +26,9 @@ abstract: "Building and implementing ethical AI systems that benefit the whole s
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Ethical AI
+- Public Opinion
+- Survey
 featured: false
 
 links:

@@ -27,7 +27,10 @@ abstract: "In diesem Open-Access-Buch geht Marco Lünich der Annahme verbreitete
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Big Data
+- Public Perceptions
+- Knowledge Society
+- Digital Society
 featured: false
 
 links:

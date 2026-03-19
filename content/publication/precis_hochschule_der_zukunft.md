@@ -31,7 +31,9 @@ abstract: "„Künstliche Intelligenz“ (KI) ist das neue Trendthema im Diskurs
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- AI Perception
+- Higher Education
+- Survey
 featured: false
 
 # links:

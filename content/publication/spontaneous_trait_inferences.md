@@ -29,7 +29,9 @@ abstract: "The notion of the ‘face effect’ in political communication denote
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Political Communication
+- Face Effect
+- Elections
 featured: false
 
 #links:

@@ -30,7 +30,8 @@ abstract: "Covering sport mega events is a pivotal strategy for public service b
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Sports Communication
+- Public Service Broadcasting
 featured: false
 
 links:

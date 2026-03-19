@@ -25,7 +25,9 @@ abstract: "AI is increasingly being used in the public sector, including public 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- AI Regulation
+- Biometric Identification
+- Public Opinion
 featured: false
 
 links:

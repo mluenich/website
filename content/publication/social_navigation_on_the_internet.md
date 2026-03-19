@@ -26,7 +26,9 @@ abstract: "The term “social navigation” (SN) refers to media use patterns th
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Social Navigation
+- Media Use
+- Internet
 featured: false
 
 #links:

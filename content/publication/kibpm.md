@@ -25,7 +25,9 @@ abstract: "A lack of political legitimacy undermines the ability of the European
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Algorithmic Decision-Making
+- Legitimacy
+- Political Communication
 featured: false
 
 links:

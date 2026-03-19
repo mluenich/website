@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Acta Politica*"
 publication_short: ""
 
 abstract: "The notion of the ‘face effect’ in political communication denotes a process by which people spontaneously infer the personal character traits of political candidates (e.g., competence, attractiveness) from campaign portrait photographs and election posters. Previous research has shown that those spontaneous trait inferences (STIs) affect people’s voting decisions. Combining survey responses, election results from official statistics, and aggregate data, the present study demonstrates that STIs of competence, attractiveness, and leadership help to predict the outcome of direct election in Germany. Furthermore, results suggest that even when controlled for context variables, judgments about a candidate’s competence solely derived from his or her face are connected to the difference in vote shares between the winning candidate and the runner-up. Effects are particularly strong when newcomers compete against each other."

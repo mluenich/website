@@ -16,7 +16,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*AI & Society*"
 publication_short: ""
 
 abstract: "In combating the ongoing global health threat of the COVID-19 pandemic, decision-makers have to take actions based on a multitude of relevant health data with severe potential consequences for the affected patients. Because of their presumed advantages in handling and analyzing vast amounts of data, computer systems of algorithmic decision-making (ADM) are implemented and substitute humans in decision-making processes. In this study, we focus on a specific application of ADM in contrast to human decision-making (HDM), namely the allocation of COVID-19 vaccines to the public. In particular, we elaborate on the role of trust and social group preference on the legitimacy of vaccine allocation. We conducted a survey with a 2 × 2 randomized factorial design among n = 1602 German respondents, in which we utilized distinct decision-making agents (HDM vs. ADM) and prioritization of a specific social group (teachers vs. prisoners) as design factors. Our findings show that general trust in ADM systems and preference for vaccination of a specific social group influence the legitimacy of vaccine allocation. However, contrary to our expectations, trust in the agent making the decision did not moderate the link between social group preference and legitimacy. Moreover, the effect was also not moderated by the type of decision-maker (human vs. algorithm). We conclude that trustworthy ADM systems must not necessarily lead to the legitimacy of ADM systems."

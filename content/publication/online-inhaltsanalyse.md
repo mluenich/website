@@ -17,7 +17,7 @@ publishDate: "2014-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "In *Handbuch Online-Forschung*. Herbert von Halem"
 publication_short: ""
 
 abstract:  

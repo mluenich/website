@@ -17,7 +17,7 @@ publishDate: "2022-05-20T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "In J. Keengwe et al. (Eds.), *Advances in Higher Education and Professional Development*. IGI Global"
 publication_short: ""
 
 abstract: "The availability of big data at universities enables the use of artificial intelligence (AI) systems in almost all areas of the institution: from administration to research, to learning and teaching, the use of AI systems is seen as having great potential. One promising area is academic performance prediction (APP), which is expected to provide individual feedback for students, improve their academic performance and ultimately increase graduation rates. However, using an APP system also entails certain risks of discrimination against individual groups of students. Thus, the fairness perceptions of affected students come into focus. To take a closer look at these perceptions, this chapter develops a framework of the “perceived fairness” of an ideal-typical APP system, which asks critical questions about input, throughput and output, and based on the four-dimensional concept of organizational justice, sheds light on potential (un-)fairness perceptions from the students' point of view." 

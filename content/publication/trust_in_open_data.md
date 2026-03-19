@@ -16,7 +16,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*New Media & Society*"
 publication_short: ""
 
 abstract: "Open data provide great potential for society, for example, in the field of smart cities, from which all citizens might profit. The trust of these citizens is important for the integration of various data, like sensitive user data, into an open data ecosystem. In the following study, we analyzed whether transparency about the application of open data promotes trust. Furthermore, we formulated guidelines on how to create transparency regarding open data in an ethical way. Using an open-data-based fictitious smart city app, we conducted an experiment analyzing to what extent communication of the technical open data application process and the ethical self-commitment for the transparent communication of data application affect trust in the app’s provider. The results indicate that the more information users obtain regarding the use of open data, the more trustworthy they perceive the app provider to be, and the more likely they are to use the app."

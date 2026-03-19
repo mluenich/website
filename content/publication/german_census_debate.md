@@ -15,7 +15,7 @@ publishDate: "2012-04-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "In B. Pohlers, F. Schreiber & I. Ghubbar (Hrsg.), *Die Politik auf dem Siegertreppchen*. Frank & Timme"
 publication_short: ""
 
 abstract: "The last two German censuses were accompanied by a media debate about the risks and challenges that come with the governmental gathering of information about its citizens. Based on normative democratic assumptions the media are supposed to supply citizens with sufficient information about the census. Aside from criteria that measure the quality of the discourse in terms of who participated in the debate and how the discourse played out, this study focusses on how solution-oriented the debate has been. It introduces the theoretical conception of discussing problems and solutions and suggests a measurement. Comparison of data from a content analysis of leading newspapers from different types of journalism (alternative, quality and tabloidpress) found differences in the prevalence of distinctfacts of the discussion of solutions, where the discourse fared better in 1987 than in 2011." 

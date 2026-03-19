@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "DIID-Précis"
 publication_short: ""
 
 abstract: "Anfang 2018 erschienen Medienberichte über einen weitreichenden Missbrauch von Facebook-Nutzerdaten durch das Unternehmen Cambridge Analytica, die bis zum Vorwurf der Wahlmanipulation reichten. Mit Hilfe eines ‚natürlichen Experiments‘ wird die Annahme geprüft, ob sich der von den Medien als „Skandal“ stilisierte Datenmissbrauch negativ auf die Einstellung der Bevölkerung zur Digitalisierung auswirkt. Die Ergebnisse einer Panelbefragung zeigen überraschender Weise, dass sich keinerlei Effekt des Ereignisses auf die Haltung der Deutschen zur Digitalisierung nachweisen lassen. Der bekannte FDP-Wahlslogan, „Digitalisierung first, Bedenken second“, stellt eine ziemlich exakte Zustandsbeschreibung der öffentlichen Meinung zum Thema Digitalisierung in Deutschland dar, die sich im Übrigen als bemerkenswert resistent erweist."

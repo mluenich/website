@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "DIID-Précis"
 publication_short: ""
 
 abstract: "„Künstliche Intelligenz“ (KI) ist das neue Trendthema im Diskurs um die digitale Transformation der Gesellschaft. Intelligente Systeme sollen künftig in allen Gesellschaftsbereichen eingesetzt werden – auch im Bildungssektor und in der Hochschule. Hier sind Verfahren wie Learning Analytics, Dropout Detection, Robograder oder automatisierte Zulassungssysteme in der Entwicklung oder bereits in Anwendung. Doch was denken Studierende über eine zunehmende Automatisierung der Hochschule? In diesem Précis geben wir erste Antworten auf diese Frage. Wir zeigen mit einer Repräsentativbefragung der Studierenden der Heinrich-Heine-Universität Düsseldorf, dass KI-Anwendungen in Abhängigkeit von ihrer Funktionalität differenziert beurteilt werden und unterschiedlich starke Akzeptanz finden. Gerade KI-basierte Entscheidungsverfahren, die die Studierenden selbst betreffen, werden dabei kritisch betrachtet, wohingegen KI in der Universitätsverwaltung zum Großteil befürwortet wird."

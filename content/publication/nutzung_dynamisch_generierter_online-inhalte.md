@@ -17,7 +17,7 @@ publishDate: "2012-04-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "In *Standardisierung und Flexibilisierung als Herausforderungen der kommunikations- und publizistikwissenschaftlichen Forschung*. Herbert von Halem"
 publication_short: ""
 
 abstract: "" 

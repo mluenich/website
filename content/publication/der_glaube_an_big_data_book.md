@@ -18,7 +18,7 @@ publishDate: "2022-01-25T00:00:00Z"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Springer VS"
 publication_short: ""
 
 abstract: "In diesem Open-Access-Buch geht Marco Lünich der Annahme verbreiteter Glaubensüberzeugungen von der Qualität und Wirkmächtigkeit von Big Data nach und analysiert die miteinander in Bezug stehenden gesellschaftlichen Überzeugungen von Erkenntnis- und Nutzengewinnen aus Big Data. Das Aufkommen der digitalen Gesellschaft ist eng verbunden mit wirkmächtigen Narrativen wie etwa der Informations- und Wissensgesellschaft. In diesem Zusammenhang wird auch die Möglichkeit der weitreichenden Sammlung und Auswertung von großen digitalen Datenbeständen betont, den sogenannten Big Data. Hervorgehoben wird dabei die besondere Bedeutung von Big Data für die gesellschaftliche Erkenntnis- und Wissensproduktion und den hieraus gezogenen Nutzen. Daher wurde in der Literatur vielfach vermutet, dass sich die Überzeugung von den vermeintlichen Konsequenzen einer Quantifizierung der Welt und vor allem des Sozialen auch in den Köpfen der Menschen verfängt und hierdurch einstellungs- und handlungsrelevant wird. Dieser vermutete Zusammenhang wird im vorliegenden Buch in unterschiedlichen Forschungszusammenhängen des Einsatzes von Technologien Künstlicher Intelligenz empirisch geprüft."

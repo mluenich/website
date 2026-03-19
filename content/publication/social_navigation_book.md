@@ -20,7 +20,7 @@ publishDate: "2012-01-01T00:00:00Z"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Nomos"
 publication_short: ""
 
 abstract: "'Social Navigation', die Orientierung der eigenen Mediennutzung am Verhalten Anderer und das Hinterlassen eigener Nutzungsinformationen, ist eines der aktuellen Phänomene im Internet. Auf Grundlage etablierter Ansätze der Kommunikationswissenschaft legt diese Studie eine umfassende theoretische Modellierung des Kommunikationsprozesses via „Social Navigation“ auf Mikro-, Meso- und Makroebene vor. Ausgewählte Aspekte wurden außerdem anhand eines Mehrmethodendesigns (Befragung und Inhaltsanalyse) in mehreren Piloterhebungen empirisch vertieft."

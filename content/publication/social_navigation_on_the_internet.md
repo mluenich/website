@@ -17,7 +17,7 @@ publishDate: "2012-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Journal of Technology in Human Services*"
 publication_short: ""
 
 abstract: "The term “social navigation” (SN) refers to media use patterns that are driven by the previous media activities of others. This phenomenon is widely encountered in social media environments, which allow users to easily leave and receive information. However, investigating the variety of SN actions, such as rating, forwarding, and even producing media items oneself, increases the prevalent challenges of empirical research on web content. The article reflects on these challenges and offers possible solutions via the example of a pilot study concerning online news based on a multi-method design with a particular emphasis on online content analysis. Special attention is devoted to the dynamics of online media and online news in particular, data reactivity during research, algorithmic content production, and the impact of relationship-related information." 

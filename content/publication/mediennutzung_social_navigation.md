@@ -17,7 +17,7 @@ publishDate: "2012-04-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "In W. Loosen & M. Dohle (Hrsg.), *Journalismus und (sein) Publikum*. Springer VS"
 publication_short: ""
 
 abstract: "Durch die erweiterten Möglichkeiten des Social Web, sich an der Mediennutzung Anderer zu orientieren oder auch selbst Nutzungsinformationen zu hinterlassen, gewinnt ‚Social Navigation’ im Internet eine neue Bedeutung. Dieses Phänomen ist ein Paradebeispiel für die veränderte Rollenverteilung zwischen dem Journalismus und seinem Publikum, da die Platzierung und Verbreitung von Medieninhalten nicht nur durch Journalisten, sondern aufgrund neuer Angebotsfunktionen auch durch Nutzer beeinflusst wird. Durch diese Veränderungen werden beide Perspektiven, die Journalismus- sowie die Rezeptionsforschung, vor neue theoretische Herausforderungen gestellt. Auf Grundlage etablierter Ansätze der Kommunikationswissenschaft (wie etwa dem dynamisch-transaktionalen Ansatz, der Gatekeeping-Theorie oder der Diffusionsforschung) legt dieser Beitrag eine theoretische Modellierung des Kommunikationsprozesses via ‚Social Navigation’ auf Mikro-, Meso- und Makroebene vor, die als Basis für weitere Forschung dienen kann." 

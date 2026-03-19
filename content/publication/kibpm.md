@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Data & Policy*, 2, e16"
 publication_short: ""
 
 abstract: "A lack of political legitimacy undermines the ability of the European Union (EU) to resolve major crises and threatens the stability of the system as a whole. By integrating digital data into political processes, the EU seeks to base decision-making increasingly on sound empirical evidence. In particular, artificial intelligence (AI) systems have the potential to increase political legitimacy by identifying pressing societal issues, forecasting potential policy outcomes, and evaluating policy effectiveness. This paper investigates how citizens’ perceptions of EU input, throughput, and output legitimacy are influenced by three distinct decision-making arrangements: (a) independent human decision-making by EU politicians; (b) independent algorithmic decision-making (ADM) by AI-based systems; and (c) hybrid decision-making (HyDM) by EU politicians and AI-based systems together. The results of a preregistered online experiment (n = 572) suggest that existing EU decision-making arrangements are still perceived as the most participatory and accessible for citizens (input legitimacy). However, regarding the decision-making process itself (throughput legitimacy) and its policy outcomes (output legitimacy), no difference was observed between the status quo and HyDM. Respondents tend to perceive ADM systems as the sole decision-maker to be illegitimate. The paper discusses the implications of these findings for (a) EU legitimacy and (b) data-driven policy-making and outlines (c) avenues for future research."

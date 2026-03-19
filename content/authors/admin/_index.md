@@ -50,9 +50,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=bJOuk5YAAAAJ&hl=de
-- icon: goodreads
-  icon_pack: fab
-  link: https://www.goodreads.com/marcoluenich 
 - icon: github
   icon_pack: fab
   link: https://github.com/mluenich

@@ -1,5 +1,5 @@
 ---
-title: "Double Crisis: Sport Mega Events and the Future of Public Service Broadcasting."
+title: "Coping with dilemma: How German sport media users respond to sport mega events in autocratic countries"
 authors:
 - Felix Flemming
 - admin

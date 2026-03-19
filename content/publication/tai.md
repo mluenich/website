@@ -26,7 +26,9 @@ abstract: In recent years Artificial Intelligence (AI) has gained much popularit
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- AI Perception
+- Scale Development
+- Survey
 featured: false
 
 links:

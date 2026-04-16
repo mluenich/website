@@ -14,6 +14,7 @@ header:
 **Angaben zum Diensteanbieter**
 
 Dr. Marco Lünich
+
 Ulenbergstr. 127
 40225 Düsseldorf
 
@@ -44,3 +45,25 @@ Die auf dieser Website veröffentlichten Inhalte und Werke unterliegen dem deuts
 **Streitschlichtung**
 
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+---
+
+## Legal Notice (English Summary)
+
+*The German version of this legal notice is authoritative under German law.*
+
+**Service provider**
+
+Dr. Marco Lünich, Ulenbergstr. 127, 40225 Düsseldorf, Germany
+
+**Contact:** luenich@posteo.de
+
+**Editorially responsible:** Dr. Marco Lünich (address as above)
+
+**Privacy:** Information on the collection and processing of personal data can be found in the [Privacy Policy](/privacy/).
+
+**Liability for content:** The content of this website has been prepared with the greatest possible care. However, no guarantee can be given for its accuracy, completeness, or timeliness.
+
+**Liability for links:** This website contains links to third-party websites over whose content I have no influence. The respective provider or operator is always responsible for the content of linked pages.
+
+**Copyright:** The content published on this website is subject to German copyright law. Any reproduction, editing, distribution, or use beyond the limits of copyright law requires the written consent of the respective author or creator.

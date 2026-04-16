@@ -50,13 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-## Winter Term 2024/2025
-
 - Artificial Intelligence and Society: Public Communication and the Common Good (in English)
 - Lehrforschungsprojekt 7 - "Generative KI und Schatten-IT: Herausforderungen der digitalen Mediennutzung in Organisationen." <br> <p style="color:grey">Teaching Research Project 7 - "Generative AI and Shadow IT: Challenges of digital media use in organisations   "</p>
-
-## Previous Teaching
-
 - Media - Sport - Society. Theories and evidence on current problems (winter term '23/24 & summer term '24)
 - Lehrforschungsprojekt 6 - "Innovationen im Lokaljournalismus und Folgen für die gesellschaftliche und politische Partizipation"<br> <p style="color:grey">Teaching Research Project 6 - "Innovations in local journalism and consequences for social and political participation."</p>
 - Lehrforschungsprojekt 5 - "Die studentische Wahrnehmung neuer Medientechnologien im Bildungssektor"<br> <p style="color:grey">Teaching Research Project 5 - "The student perception of new media technologies in the education sector."</p>

@@ -26,6 +26,10 @@ E-Mail: marco.luenich@hhu.de
 
 Dr. Marco Lünich (Anschrift wie oben)
 
+**Datenschutz**
+
+Informationen zur Erhebung und Verarbeitung personenbezogener Daten finden Sie in der [Datenschutzerklärung](/privacy/).
+
 **Haftung für Inhalte**
 
 Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden. Als Diensteanbieter bin ich für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Ich bin jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.

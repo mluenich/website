@@ -19,8 +19,7 @@ Ulenbergstr. 127
 
 **Kontakt**
 
-Telefon: +49 211 81-15904
-E-Mail: marco.luenich@hhu.de
+E-Mail: luenich@posteo.de
 
 **Verantwortlich für redaktionelle Inhalte**
 

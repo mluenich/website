@@ -1,5 +1,5 @@
 ---
-title: "New Brief Report: Shaping the Use of AI in the Workplace"
+title: "New Factsheet: Shaping the Use of AI in the Workplace"
 author: Marco Lünich
 date: '2026-07-30'
 slug: conjoint-workplace-ai-en
@@ -10,7 +10,7 @@ header:
   preview: yes
 ---
 
-A new brief report with Birte Keller, Florian Kruse, and Frank Marcinkowski is now available on [SocArXiv](https://doi.org/10.31235/osf.io/mx9y2_v1): "Shaping the Use of AI in the Workplace – Between Autonomous Use and Workload Reduction: Brief Report on a Conjoint Study."
+A new factsheet with Birte Keller, Florian Kruse, and Frank Marcinkowski is now available on [SocArXiv](https://doi.org/10.31235/osf.io/mx9y2_v1): "Shaping the Use of AI in the Workplace – Between Autonomous Use and Workload Reduction: Brief Report on a Conjoint Study."
 
 The report presents key findings from a conjoint study conducted in May 2026 as part of the [Meinungsmonitor Künstliche Intelligenz (MeMo:KI)](https://www.sozwiss.hhu.de/meinungsmonitor-kuenstliche-intelligenz) 3.0 project. The analysis examines the preferences of around 2,800 dependent employees in Germany regarding different design options for AI systems in the workplace.
 

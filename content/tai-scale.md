@@ -21,7 +21,7 @@ The TAI scale is published open access under a [Creative Commons Attribution 4.0
 
 You can download the scale below. The file contains the introduction text and items for the use case **"medical treatment."** Please note that the scale was validated in German; the translated English version has not been separately validated. The wording for the other two use cases (**recruitment** and **loan origination**) can be reconstructed from the same file in combination with the paper. The **original scoring** is described in the paper.
 
-- **Scale document (PDF):** [Download](/uploads/tai-scale.pdf)
+- **Scale document (PDF):** [Download](/uploads/10.1007_s12369-020-00734-w_TAI_scale.pdf)
 - **Paper (open access):** [Springer](https://link.springer.com/article/10.1007/s12369-020-00734-w)
 
 ## How to cite

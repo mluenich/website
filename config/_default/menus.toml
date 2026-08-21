@@ -24,6 +24,11 @@
   weight = 30
 
 [[main]]
+  name = "TAI Scale"
+  url = "/tai-scale/"
+  weight = 45
+
+[[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 50

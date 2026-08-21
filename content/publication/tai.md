@@ -34,9 +34,9 @@ featured: false
 links:
 - name: arXiv (Pre-print)
   url: https://arxiv.org/abs/2006.07211v1
-url_pdf: https://link.springer.com/content/pdf/10.1007/s12369-020-00734-w.pdf
 - name: "Scale materials"
   url: '/tai-scale/'
+url_pdf: https://link.springer.com/content/pdf/10.1007/s12369-020-00734-w.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

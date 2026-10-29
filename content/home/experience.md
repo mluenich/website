@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Düsseldorf, Germany"
   date_start = "2023-10-01"
-  date_end = "2024-09-30"
+  date_end = "2024-10-31"
   description = ""
 
 [[experience]]
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Düsseldorf, Germany"
   date_start = "2020-10-01"
   date_end = ""
-  description = """Chair: Prof. Dr. Frank Marcinkowski. Operational Lead, BMBF project “Responsible Academic Performance Prediction” (Mar 2021 – Feb 2024). Position interrupted by the substitute professorship (Oct 2023 – Sep 2024) and the co-lead of MeMo:KI 3.0 (Apr 2025 – Aug 2026)."""
+  description = """Chair: Prof. Dr. Frank Marcinkowski. Operational Lead, BMBF project “Responsible Academic Performance Prediction” (Mar 2021 – Mar 2024). Position interrupted by the substitute professorship (Oct 2023 – Oct 2024) and the co-lead of MeMo:KI 3.0 (Apr 2025 – Aug 2026)."""
 
 [[experience]]
   title = "Research Assistant, Communication and Media Science I"

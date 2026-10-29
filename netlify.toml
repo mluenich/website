@@ -28,6 +28,13 @@
 # Resources section: the TAI scale entry points to the existing page /tai-scale/.
 # The compact list view also links its summary to the entry's own page; forward it.
 [[redirects]]
+  from = "/resource/tai-scale/"
+  to = "/tai-scale/"
+  status = 301
+  force = true
+
+# Former URL of the TAI entry (before resources got their own content type).
+[[redirects]]
   from = "/project/tai-scale/"
   to = "/tai-scale/"
   status = 301

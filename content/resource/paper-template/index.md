@@ -4,6 +4,10 @@ summary: "An open template that combines a linear R pipeline with an R Markdown 
 date: "2026-10-29T00:00:00+01:00"
 weight: 20
 
+# Former URL (Resources section was first built on the project type).
+aliases:
+  - /project/paper-template/
+
 external_link: ""
 url_code: "https://github.com/mluenich/paper-template"
 ---

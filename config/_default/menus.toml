@@ -13,20 +13,15 @@
   url = "#posts"
   weight = 20
 
-# [[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Resources"
+  url = "#projects"
+  weight = 25
 
 [[main]]
   name = "Publications"
   url = "#publications"
   weight = 30
-
-[[main]]
-  name = "TAI Scale"
-  url = "/tai-scale/"
-  weight = 45
 
 [[main]]
   name = "Teaching"

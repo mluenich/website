@@ -16,18 +16,18 @@ organizations:
 bio: My research interests include the public perception of Digital Media, Big Data, and Artificial Intelligence.
 
 interests:
-- Digital Media and Communication
-- Public perceptions of Big Data & Artificial Intelligence
-- Survey Research, Experimental Designs, Content Analysis
+- Public Perceptions of Artificial Intelligence
+- AI Governance, Regulation & Legitimacy
+- Algorithmic Fairness & Decision-Making
+- AI Imaginaries & Political Engagement
+- AI in the Workplace & Higher Education
+- Survey Experiments & Conjoint Analysis
 - Structural Equation Modelling
 
 education:
   courses:
-  - course: Post-Doc
-    institution: Heinrich-Heine-Universität Düsseldorf (DE)
-    year: 2020-present
   - course: PhD in Communication Science
-    institution: WWU Münster (DE)
+    institution: University of Münster (DE)
     year: 2014-2020
   - course: M.Sc. Communication Science
     institution: University of Amsterdam (NL)

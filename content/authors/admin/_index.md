@@ -34,7 +34,7 @@ education:
     year: 2012-2014
   - course: BA in Communication Science
     institution: University of Erfurt (DE)
-    year: 2008-2011
+    year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -78,7 +78,7 @@ highlight_name: true
 #- Visitors
 ---
 Hi!<br>
-I am Marco, a social scientist researching public perceptions of artificial intelligence, the fairness and legitimacy of algorithmic decision-making, and the societal consequences of AI in areas such as higher education and public policy. I am part of the [Meinungsmonitor Künstliche Intelligenz (MeMo:KI)](https://www.sozwiss.hhu.de/meinungsmonitor-kuenstliche-intelligenz), a long-term research project monitoring public opinion on AI in Germany.
+I am Marco, a social scientist researching public perceptions of artificial intelligence, the fairness and legitimacy of algorithmic decision-making, and the societal consequences of AI in areas such as higher education and public policy. I was part of the [Meinungsmonitor Künstliche Intelligenz (MeMo:KI)](https://www.sozwiss.hhu.de/meinungsmonitor-kuenstliche-intelligenz), a long-term research project that monitored public opinion on AI in Germany until 2026.
 
 Currently, I am a post-doctoral researcher in communication and media science at [Heinrich Heine University in Düsseldorf](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich) in Germany.
 My academic research ranges from work that theorizes and analyzes the meaning of data in social situations, to how we communicate about and negotiate with data and computers in our everyday life, to how we perceive of the societal use of technology ([see here for my publications](https://marcoluenich.com/#publications)). 

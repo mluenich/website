@@ -42,6 +42,10 @@ Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte ich
 
 Die auf dieser Website veröffentlichten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet und als solche gekennzeichnet.
 
+**Bildnachweis**
+
+Porträtfoto: Kathleen Brenner
+
 **Streitschlichtung**
 
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
@@ -67,3 +71,5 @@ Dr. Marco Lünich, Ulenbergstr. 127, 40225 Düsseldorf, Germany
 **Liability for links:** This website contains links to third-party websites over whose content I have no influence. The respective provider or operator is always responsible for the content of linked pages.
 
 **Copyright:** The content published on this website is subject to German copyright law. Any reproduction, editing, distribution, or use beyond the limits of copyright law requires the written consent of the respective author or creator.
+
+**Photo credit:** Portrait photo: Kathleen Brenner

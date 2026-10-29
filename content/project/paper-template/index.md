@@ -10,6 +10,8 @@ url_code: "https://github.com/mluenich/paper-template"
 
 I have made the template I use for my empirical papers publicly available on GitHub: [**paper-template**](https://github.com/mluenich/paper-template). It combines a linear R pipeline with an R Markdown manuscript, so that every number, table, and figure in the paper is produced by code and can be rebuilt with a single command.
 
+The pipeline is based on the way I write manuscripts with R and R Markdown and reflects many years of experience in writing research papers with an empirical focus. I used ChatGPT and Claude to refine the template and to prepare it for publication.
+
 **How it is organized**
 
 - **One entry point:** `source("R/00_run_all.R")` runs import, cleaning, analysis, and the preparation of tables and figures, and then renders the manuscript and an online appendix to PDF.

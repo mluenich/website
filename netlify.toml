@@ -24,3 +24,11 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+# Resources section: the TAI scale entry points to the existing page /tai-scale/.
+# The compact list view also links its summary to the entry's own page; forward it.
+[[redirects]]
+  from = "/project/tai-scale/"
+  to = "/tai-scale/"
+  status = 301
+  force = true

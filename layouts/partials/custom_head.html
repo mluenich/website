@@ -9,7 +9,7 @@
   {{ $works_for := dict "@type" "CollegeOrUniversity" "name" "Heinrich Heine University Düsseldorf" "url" "https://www.hhu.de/" }}
   {{ $alumni_of := slice (dict "@type" "CollegeOrUniversity" "name" "University of Münster") (dict "@type" "CollegeOrUniversity" "name" "University of Amsterdam") (dict "@type" "CollegeOrUniversity" "name" "University of Erfurt") }}
   {{ $knows_about := slice "Public perceptions of artificial intelligence" "AI governance and regulation" "Algorithmic fairness" "Legitimacy of algorithmic decision-making" "AI imaginaries" "AI in the workplace" "AI in higher education" "Survey experiments" "Conjoint analysis" "Structural equation modelling" }}
-  {{ $same_as := slice "https://orcid.org/0000-0002-0553-7291" "https://scholar.google.de/citations?user=bJOuk5YAAAAJ" "https://github.com/mluenich" "https://www.researchgate.net/profile/Marco_Luenich" "https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich" }}
+  {{ $same_as := slice "https://orcid.org/0000-0002-0553-7291" "https://scholar.google.de/citations?user=bJOuk5YAAAAJ" "https://github.com/mluenich" "https://www.linkedin.com/in/marco-l%C3%BCnich-8bb253236/" "https://www.researchgate.net/profile/Marco_Luenich" "https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich" }}
 
   {{ $person := dict "@context" "https://schema.org" "@type" "Person" "@id" (printf "%s#person" site.BaseURL) "url" site.BaseURL }}
   {{ $person = merge $person (dict "name" "Marco Lünich" "alternateName" (slice "Marco Luenich" "Marco Lunich") "honorificPrefix" "Dr.") }}

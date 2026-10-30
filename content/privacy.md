@@ -37,7 +37,7 @@ Diese Website wird bei Netlify, Inc., San Francisco, USA, gehostet. Beim Aufruf 
 - Referrer-URL (die zuvor besuchte Seite)
 - Browsertyp und -version sowie Betriebssystem
 
-Zweck ist die Auslieferung der Website und die Gewährleistung ihrer Sicherheit und Stabilität, etwa die Abwehr von Angriffen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO; mein berechtigtes Interesse liegt in einer sicheren und zuverlässigen Bereitstellung der Website. Ich selbst werte diese Daten nicht aus und führe sie nicht mit anderen Daten zusammen.
+Zweck ist die Auslieferung der Website und die Gewährleistung ihrer Sicherheit und Stabilität, etwa die Abwehr von Angriffen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO; mein berechtigtes Interesse liegt in einer sicheren und zuverlässigen Bereitstellung der Website. Ich nutze diese Daten nur zu diesen Zwecken, etwa zur Fehleranalyse, nicht zur Reichweitenmessung, und führe sie nicht mit anderen Daten zusammen.
 
 Netlify verarbeitet die Daten als Auftragsverarbeiter auf Grundlage eines Vertrags nach Art. 28 DSGVO (Data Processing Agreement als Bestandteil der Vertragsbedingungen von Netlify), auch in den USA. Netlify, Inc. ist unter dem EU-U.S. Data Privacy Framework zertifiziert; die Übermittlung stützt sich auf den Angemessenheitsbeschluss der Europäischen Kommission (Durchführungsbeschluss (EU) 2023/1795, Art. 45 DSGVO). Ergänzend sieht der Vertrag die EU-Standardvertragsklauseln vor (Art. 46 Abs. 2 lit. c DSGVO).
 
@@ -47,9 +47,9 @@ Weitere Informationen: [Datenschutzerklärung von Netlify](https://www.netlify.c
 
 ## 4. Kontakt per E-Mail
 
-Wenn Sie mir eine E-Mail schreiben, verarbeite ich Ihre E-Mail-Adresse, Ihren Namen (sofern angegeben) und den Inhalt Ihrer Nachricht, um Ihre Anfrage zu bearbeiten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung von Anfragen) oder, wenn Ihre Anfrage auf einen Vertrag zielt, Art. 6 Abs. 1 lit. b DSGVO. Ich gebe diese Daten nicht ohne Ihre Einwilligung weiter und lösche sie, sobald sie für die Bearbeitung Ihrer Anfrage und etwaige Anschlussfragen nicht mehr erforderlich sind.
+Wenn Sie mir an luenich@posteo.de schreiben, verarbeite ich Ihre E-Mail-Adresse, Ihren Namen (sofern angegeben) und den Inhalt Ihrer Nachricht, um Ihre Anfrage zu bearbeiten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung von Anfragen) oder, wenn Ihre Anfrage auf einen Vertrag zielt, Art. 6 Abs. 1 lit. b DSGVO. Die E-Mails werden bei meinem E-Mail-Anbieter Posteo e.K., Berlin, gespeichert. Ich gebe diese Daten nicht ohne Ihre Einwilligung weiter und lösche sie, sobald sie für die Bearbeitung Ihrer Anfrage und etwaige Anschlussfragen nicht mehr erforderlich sind.
 
-E-Mails an luenich@posteo.de werden bei meinem E-Mail-Anbieter Posteo e.K., Berlin, gespeichert. E-Mails an meine dienstliche Adresse (@hhu.de), die im Kontaktbereich genannt ist, verarbeite ich im Rahmen meiner Tätigkeit an der Heinrich-Heine-Universität Düsseldorf; insoweit gelten deren Datenschutzhinweise.
+E-Mails an meine dienstliche Adresse (@hhu.de), die im Kontaktbereich genannt ist, verarbeite ich im Rahmen meiner Tätigkeit an der Heinrich-Heine-Universität Düsseldorf. Insoweit gilt nicht diese Datenschutzerklärung; es gelten die Datenschutzhinweise der Universität.
 
 ## 5. Darstellungseinstellung und Suche
 
@@ -119,7 +119,7 @@ This website is hosted by Netlify, Inc., San Francisco, USA. When you open a pag
 - referrer URL (the previously visited page)
 - browser type and version, and operating system
 
-The purpose is to deliver the website and to keep it secure and stable, for example by defending against attacks. The legal basis is Art. 6(1)(f) GDPR; my legitimate interest is the secure and reliable provision of the website. I do not analyze this data myself or combine it with other data.
+The purpose is to deliver the website and to keep it secure and stable, for example by defending against attacks. The legal basis is Art. 6(1)(f) GDPR; my legitimate interest is the secure and reliable provision of the website. I use this data only for these purposes, for example to diagnose errors, not for audience measurement, and do not combine it with other data.
 
 Netlify processes the data as a processor under a contract pursuant to Art. 28 GDPR (Data Processing Agreement, part of Netlify's terms), including in the USA. Netlify, Inc. is certified under the EU-U.S. Data Privacy Framework; the transfer is based on the European Commission's adequacy decision (Implementing Decision (EU) 2023/1795, Art. 45 GDPR). In addition, the contract provides for the EU Standard Contractual Clauses (Art. 46(2)(c) GDPR).
 
@@ -129,9 +129,9 @@ Further information: [Netlify privacy statement](https://www.netlify.com/privacy
 
 ### 4. Contact by email
 
-If you send me an email, I process your email address, your name (if provided) and the content of your message in order to handle your request. The legal basis is Art. 6(1)(f) GDPR (legitimate interest in answering requests) or, if your request concerns a contract, Art. 6(1)(b) GDPR. I do not pass this data on without your consent and delete it once it is no longer needed to handle your request and any follow-up questions.
+If you write to me at luenich@posteo.de, I process your email address, your name (if provided) and the content of your message in order to handle your request. The legal basis is Art. 6(1)(f) GDPR (legitimate interest in answering requests) or, if your request concerns a contract, Art. 6(1)(b) GDPR. The emails are stored by my email provider Posteo e.K., Berlin. I do not pass this data on without your consent and delete it once it is no longer needed to handle your request and any follow-up questions.
 
-Emails to luenich@posteo.de are stored by my email provider Posteo e.K., Berlin. Emails to my work address (@hhu.de), which is listed in the contact section, are processed as part of my work at Heinrich Heine University Düsseldorf; the university's privacy information applies to them.
+Emails to my work address (@hhu.de), which is listed in the contact section, are processed as part of my work at Heinrich Heine University Düsseldorf. This privacy notice does not apply to them; the university's privacy information does.
 
 ### 5. Display setting and search
 

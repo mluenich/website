@@ -1,6 +1,7 @@
 ---
 title: "Threats of Artificial Intelligence (TAI) Scale — Materials and Use"
 date: "2026-08-20T00:00:00+02:00"
+summary: "Threats of Artificial Intelligence (TAI) scale by Kieslich, Lünich & Marcinkowski (2021): download the items, free use under CC BY 4.0, and how to cite."
 draft: false
 share: false
 commentable: false

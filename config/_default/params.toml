@@ -48,7 +48,7 @@ site_type = "Person"
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-#description = ""
+description = "Marco Lünich is a social scientist at Heinrich Heine University Düsseldorf researching public perceptions of AI, algorithmic fairness and legitimacy, and AI governance."
 
 ############################
 ## Site Features

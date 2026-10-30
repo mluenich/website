@@ -1,0 +1,23 @@
+{{/* Structured data (schema.org/Person) for the home page.
+     The theme (Wowchemy 4.8) only emits WebSite JSON-LD on the home page.
+     Keep facts in sync with content/authors/admin/_index.md and the CV.
+     Hugo 0.75: template actions must stay on one line. */}}
+{{ if .IsHome }}
+  {{ $person_page := site.GetPage "/authors/admin" }}
+  {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+  {{ $works_for := dict "@type" "CollegeOrUniversity" "name" "Heinrich Heine University Düsseldorf" "url" "https://www.hhu.de/" }}
+  {{ $alumni_of := slice (dict "@type" "CollegeOrUniversity" "name" "University of Münster") (dict "@type" "CollegeOrUniversity" "name" "University of Amsterdam") (dict "@type" "CollegeOrUniversity" "name" "University of Erfurt") }}
+  {{ $knows_about := slice "Public perceptions of artificial intelligence" "AI governance and regulation" "Algorithmic fairness" "Legitimacy of algorithmic decision-making" "AI imaginaries" "AI in the workplace" "AI in higher education" "Survey experiments" "Conjoint analysis" "Structural equation modelling" }}
+  {{ $same_as := slice "https://orcid.org/0000-0002-0553-7291" "https://scholar.google.de/citations?user=bJOuk5YAAAAJ" "https://github.com/mluenich" "https://www.linkedin.com/in/marco-l%C3%BCnich-8bb253236/" "https://www.researchgate.net/profile/Marco_Luenich" "https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich" }}
+
+  {{ $person := dict "@context" "https://schema.org" "@type" "Person" "@id" (printf "%s#person" site.BaseURL) "url" site.BaseURL }}
+  {{ $person = merge $person (dict "name" "Marco Lünich" "alternateName" (slice "Marco Luenich" "Marco Lunich") "honorificPrefix" "Dr.") }}
+  {{ $person = merge $person (dict "description" site.Params.description "jobTitle" "Postdoctoral Researcher") }}
+  {{ $person = merge $person (dict "worksFor" $works_for "alumniOf" $alumni_of "knowsAbout" $knows_about "sameAs" $same_as) }}
+  {{ with $avatar }}
+    {{ $person = merge $person (dict "image" (.Fill "270x270 Center").Permalink) }}
+  {{ end }}
+
+  <script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+{{ end }}

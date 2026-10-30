@@ -53,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mluenich
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/marco-l%C3%BCnich-8bb253236/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Marco_Luenich

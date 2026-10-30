@@ -1,0 +1,12 @@
+# Font set "Minimal" with self-hosted fonts instead of Google Fonts.
+# The @font-face rules are in assets/scss/custom.scss; the files are in static/fonts/.
+name = "Minimal (self-hosted)"
+
+# Empty: do not load anything from fonts.googleapis.com.
+google_fonts = ""
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"

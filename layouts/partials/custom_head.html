@@ -1,3 +1,19 @@
+{{/* Code highlighting with self-hosted assets (scripts/build_vendor_assets.sh).
+     In local vendor mode the theme neither enables highlight.js nor links its styles,
+     so mirror its CDN-mode logic here; wowchemy.js toggles hl-light/hl-dark on theme change. */}}
+{{ $hl := site.Params.highlight }}
+{{ if isset .Params "highlight" }}{{ $hl = .Params.highlight }}{{ end }}
+{{ if and $hl (fileExists "static/css/vendor/main.min.css") }}
+  {{ .Scratch.Set "highlight_enabled" true }}
+  {{ if .Scratch.Get "light" }}
+  <link rel="stylesheet" href="{{ "css/vendor/hl-github.min.css" | relURL }}" title="hl-light">
+  <link rel="stylesheet" href="{{ "css/vendor/hl-dracula.min.css" | relURL }}" title="hl-dark" disabled>
+  {{ else }}
+  <link rel="stylesheet" href="{{ "css/vendor/hl-github.min.css" | relURL }}" title="hl-light" disabled>
+  <link rel="stylesheet" href="{{ "css/vendor/hl-dracula.min.css" | relURL }}" title="hl-dark">
+  {{ end }}
+{{ end }}
+
 {{/* Structured data (schema.org/Person) for the home page.
      The theme (Wowchemy 4.8) only emits WebSite JSON-LD on the home page.
      Keep facts in sync with content/authors/admin/_index.md and the CV.

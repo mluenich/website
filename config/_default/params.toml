@@ -22,7 +22,8 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+# "minimal_local" = the theme's Minimal fonts, self-hosted (no Google Fonts requests; see data/fonts/).
+font = "minimal_local"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -278,7 +279,9 @@ plugins_js  = []
 ############################
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+  # Disabled: content is edited via GitHub. When true, the home page loads the
+  # Netlify Identity widget from identity.netlify.com (see the privacy notice).
+  netlify_cms = false
 
 ############################
 ## Icon Pack Extensions

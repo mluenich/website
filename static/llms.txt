@@ -1,0 +1,37 @@
+# Marco Lünich
+
+> Dr. Marco Lünich (also spelled Marco Luenich) is a social scientist and postdoctoral researcher in communication and media science at Heinrich Heine University Düsseldorf, Germany. He researches public perceptions of artificial intelligence, the fairness and legitimacy of algorithmic decision-making, AI governance, and the societal consequences of AI in the workplace and in higher education.
+
+## Profile
+
+- Position: Post-Doctoral Researcher, Communication and Media Science I, Institute for Social Sciences, Heinrich Heine University Düsseldorf (since 2020)
+- Previous roles: Co-Lead of the BMAS project "Meinungsmonitor Künstliche Intelligenz 3.0" (2025-2026); Substitute Professor, Communication and Media Science III, HHU Düsseldorf (2023-2024); Operational Lead of the BMBF project "Responsible Academic Performance Prediction" (2021-2024)
+- Education: Dr. phil., University of Münster (2020); M.Sc. Communication Science, University of Amsterdam (2014); B.A. Communication Studies, University of Erfurt (2012)
+- Methods: survey research, survey and conjoint experiments, structural equation modelling
+- Contact: marco.luenich@hhu.de
+
+## Pages
+
+- [Home](https://marcoluenich.com/): bio, research interests, positions, teaching
+- [Publications](https://marcoluenich.com/publication/): full list with abstracts and DOIs
+- [Posts](https://marcoluenich.com/post/): research news
+- [TAI Scale](https://marcoluenich.com/tai-scale/): materials and citation for the Threats of Artificial Intelligence scale
+- [CV (PDF)](https://marcoluenich.com/media/cv_luenich.pdf)
+
+## Selected publications
+
+- Kieslich, K., Lünich, M., & Marcinkowski, F. (2021). The Threats of Artificial Intelligence Scale (TAI). International Journal of Social Robotics. https://doi.org/10.1007/s12369-020-00734-w
+- Lünich, M., & Keller, B. (2024). Explainable artificial intelligence for academic performance prediction. ACM FAccT 2024. https://doi.org/10.1145/3630106.3658953
+- Kieslich, K., & Lünich, M. (2024). Regulating AI-based remote biometric identification. ACM FAccT 2024. https://doi.org/10.1145/3630106.3658548
+- Lünich, M., Keller, B., & Marcinkowski, F. (2024). Diverging perceptions of artificial intelligence in higher education. Computers and Education: Artificial Intelligence. https://doi.org/10.1016/j.caeai.2024.100305
+- Lünich, M., Roth, J., & Starke, C. (2026). With AI through the energy crisis? Technology in Society. https://doi.org/10.1016/j.techsoc.2026.103327
+- Lünich, M., & Starke, C. (2026). The public legitimacy of artificial intelligence governance. In Handbook on the Global Governance of Artificial Intelligence. Edward Elgar. https://doi.org/10.4337/9781035338580.00025
+- Lünich, M. (2022). Der Glaube an Big Data. Springer VS (open access). https://doi.org/10.1007/978-3-658-36368-0
+
+## Profiles
+
+- ORCID: https://orcid.org/0000-0002-0553-7291
+- Google Scholar: https://scholar.google.de/citations?user=bJOuk5YAAAAJ
+- LinkedIn: https://www.linkedin.com/in/marco-l%C3%BCnich-8bb253236/
+- GitHub: https://github.com/mluenich
+- HHU staff page: https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich

@@ -4,7 +4,7 @@ authors:
 - admin
 - Christopher Starke
 - Frank Marcinkowski
-- Pero Dosenovic
+- Pero Došenović
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

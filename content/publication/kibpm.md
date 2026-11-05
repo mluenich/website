@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence for EU Decision-Making. Effects on Citizens  Perceptions of Input, Throughput and Output Legitimacy"
+title: "Artificial intelligence for political decision-making in the European Union: Effects on citizens’ perceptions of input, throughput, and output legitimacy"
 authors:
 - Christopher Starke
 - admin

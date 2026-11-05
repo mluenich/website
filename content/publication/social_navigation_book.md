@@ -8,7 +8,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2012-01-01T00:00:00Z"
-doi: ""
+doi: "10.5771/9783845243191"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2012-01-01T00:00:00Z"
@@ -35,8 +35,6 @@ tags:
 featured: false
 
 links:
-- name: URL
-  url: 'www.beck-shop.de/hautzer-luenich-roessler-social-navigation/product/11612910'
 #url_pdf:
 #url_code: ''
 #url_dataset: ''

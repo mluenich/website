@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: "DIID-Précis"
 #url: ''
-url_pdf: 'https://diid.hhu.de/wp-content/uploads/2018/08/DIID-Precis_L%C3%BCnich_Marcinkowski.pdf'
+url_pdf: 'https://diid.hhu.de/fileadmin/redaktion/DIID/Daten/Precis/DIID-Precis_Luenich_Marcinkowski.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''

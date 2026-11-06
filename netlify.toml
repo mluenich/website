@@ -25,17 +25,18 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
-# Primary domain: marcoluenich.de (set in the Netlify UI; production builds use -b $URL).
-# The former primary domain marcoluenich.com is a domain alias; forward it with the path.
+# Primary domain: marcoluenich.com (set in the Netlify UI; production builds use -b $URL).
+# marcoluenich.de (registered 2026-11-06) is a domain alias for now, because some network
+# filters block newly registered domains for about a month; forward it with the path.
 [[redirects]]
-  from = "https://marcoluenich.com/*"
-  to = "https://marcoluenich.de/:splat"
+  from = "https://marcoluenich.de/*"
+  to = "https://marcoluenich.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.marcoluenich.com/*"
-  to = "https://marcoluenich.de/:splat"
+  from = "https://www.marcoluenich.de/*"
+  to = "https://marcoluenich.com/:splat"
   status = 301
   force = true
 

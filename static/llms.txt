@@ -12,11 +12,11 @@
 
 ## Pages
 
-- [Home](https://marcoluenich.com/): bio, research interests, positions, teaching
-- [Publications](https://marcoluenich.com/publication/): full list with abstracts and DOIs
-- [Posts](https://marcoluenich.com/post/): research news
-- [TAI Scale](https://marcoluenich.com/tai-scale/): materials and citation for the Threats of Artificial Intelligence scale
-- [CV (PDF)](https://marcoluenich.com/media/cv_luenich.pdf)
+- [Home](https://marcoluenich.de/): bio, research interests, positions, teaching
+- [Publications](https://marcoluenich.de/publication/): full list with abstracts and DOIs
+- [Posts](https://marcoluenich.de/post/): research news
+- [TAI Scale](https://marcoluenich.de/tai-scale/): materials and citation for the Threats of Artificial Intelligence scale
+- [CV (PDF)](https://marcoluenich.de/media/cv_luenich.pdf)
 
 ## Selected publications
 

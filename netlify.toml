@@ -25,6 +25,20 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
+# Primary domain: marcoluenich.de (set in the Netlify UI; production builds use -b $URL).
+# The former primary domain marcoluenich.com is a domain alias; forward it with the path.
+[[redirects]]
+  from = "https://marcoluenich.com/*"
+  to = "https://marcoluenich.de/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.marcoluenich.com/*"
+  to = "https://marcoluenich.de/:splat"
+  status = 301
+  force = true
+
 # Resources section: the TAI scale entry points to the existing page /tai-scale/.
 # The compact list view also links its summary to the entry's own page; forward it.
 [[redirects]]

@@ -14,7 +14,7 @@ Stand: Oktober 2026 · [English version below](#privacy-notice-english-translati
 
 ## 1. Verantwortlicher
 
-Verantwortlich für die Verarbeitung personenbezogener Daten auf dieser Website (marcoluenich.de) im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
+Verantwortlich für die Verarbeitung personenbezogener Daten auf dieser Website (marcoluenich.com) im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 Dr. Marco Lünich<br>
 Ulenbergstr. 127<br>
@@ -96,7 +96,7 @@ Ich passe diese Datenschutzerklärung an, wenn sich die Website oder die Rechtsl
 
 ### 1. Controller
 
-The controller responsible for processing personal data on this website (marcoluenich.de) within the meaning of the General Data Protection Regulation (GDPR) is:
+The controller responsible for processing personal data on this website (marcoluenich.com) within the meaning of the General Data Protection Regulation (GDPR) is:
 
 Dr. Marco Lünich<br>
 Ulenbergstr. 127<br>

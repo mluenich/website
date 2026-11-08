@@ -5,3 +5,7 @@
 /resources/
 public/
 .Rproj.user
+
+.claude/settings.local.json
+.Renviron
+.Rhistory
